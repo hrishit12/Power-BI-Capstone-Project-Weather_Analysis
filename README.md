@@ -8,12 +8,13 @@ This is my final capstone project for Power BI
 
 📌 **Overview**
 
-The Weather Analysis Project aims to explore and visualize global weather patterns using advanced data analysis techniques. It leverages meteorological data—temperature, humidity, pressure, wind speed, and direction—across various cities and time periods to derive actionable insights for urban planning, disaster preparedness, climate research, and energy management.
 
+The Weather Analysis Project aims to explore and visualize global weather patterns using advanced data analysis techniques. It leverages meteorological data—temperature, humidity, pressure, wind speed, and direction—across various cities and time periods to derive actionable insights for urban planning, disaster preparedness, climate research, and energy management.
 This project combines Power BI dashboards, Exploratory Data Analysis (EDA) in Excel, and structured documentation using relational databases for a complete end-to-end weather analytics solution.
 
 
 🎯 **Objectives**
+
 
 Analyze seasonal trends and anomalies in temperature, humidity, pressure, and wind.
 
@@ -28,6 +29,7 @@ Support data-driven decision-making in climate-sensitive industries.
 
 🛠️ **Tools & Technologies**
 
+
 Power BI – For advanced interactive visualizations
 
 Excel – For EDA and dashboard prototyping
@@ -40,6 +42,7 @@ GitHub – Version control and project sharing
 
 
 🧰 **Dataset & Schema**
+
 
 The dataset includes weather metrics linked to time and geographic dimensions.
 
@@ -64,6 +67,7 @@ city_attributes	latitude, longitude	City coordinates
 
 
 📊 **Power BI Visualizations**
+
 
 A range of visualizations were created to uncover trends, relationships, and anomalies:
 
@@ -90,6 +94,7 @@ Each visualization is backed by real insights useful for smart cities, climate r
 ​
 📈 **MECE Breakdown (Problem Segmentation)**
 
+
 The MECE Breakdown outlines problem areas across four key domains (refer to image in MECE_BreakDown.pdf):
 
 Climate Pattern Analysis – Temperature trends, humidity variation, pressure shifts
@@ -102,6 +107,7 @@ Location-Based Insights – Regional extremes and city-level comparisons
 
 
 🔍 **Exploratory Data Analysis (EDA)**
+
 
 Key questions answered during EDA include:
 
