@@ -11,7 +11,9 @@ The Weather Analysis Project aims to explore and visualize global weather patter
 
 This project combines Power BI dashboards, Exploratory Data Analysis (EDA) in Excel, and structured documentation using relational databases for a complete end-to-end weather analytics solution.
 
+
 🎯 Objectives
+
 Analyze seasonal trends and anomalies in temperature, humidity, pressure, and wind.
 
 Study city-wise and country-wise variations in climate patterns.
@@ -33,7 +35,9 @@ Python (optional) – For preprocessing or extended analytics
 
 GitHub – Version control and project sharing
 
+
 🧰 Dataset & Schema
+
 The dataset includes weather metrics linked to time and geographic dimensions.
 
 Database Tables
@@ -54,7 +58,9 @@ final_fact	humidity	Humidity in %
 final_fact	pressure	Atmospheric pressure in hPa
 final_fact	wind_speed	Wind speed in m/s
 city_attributes	latitude, longitude	City coordinates
+
 📊 Power BI Visualizations
+
 A range of visualizations were created to uncover trends, relationships, and anomalies:
 
 🌍 Geographical Maps: City distributions based on latitude & longitude
@@ -78,6 +84,7 @@ Busiest weather conditions by hour
 Each visualization is backed by real insights useful for smart cities, climate resilience, and disaster management​.
 ​
 📈 MECE Breakdown (Problem Segmentation)
+
 The MECE Breakdown outlines problem areas across four key domains (refer to image in MECE_BreakDown.pdf):
 
 Climate Pattern Analysis – Temperature trends, humidity variation, pressure shifts
@@ -89,6 +96,7 @@ Correlation Analysis – Relations between weather attributes (e.g., pressure vs
 Location-Based Insights – Regional extremes and city-level comparisons
 
 🔍 Exploratory Data Analysis (EDA)
+
 Key questions answered during EDA include:
 
 Are cities with similar latitudes experiencing similar climates?
