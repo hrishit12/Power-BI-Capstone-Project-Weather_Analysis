@@ -5,6 +5,7 @@ This is my final capstone project for Power BI
 
 🌦️ Weather Analysis Project
 
+
 📌 **Overview**
 
 The Weather Analysis Project aims to explore and visualize global weather patterns using advanced data analysis techniques. It leverages meteorological data—temperature, humidity, pressure, wind speed, and direction—across various cities and time periods to derive actionable insights for urban planning, disaster preparedness, climate research, and energy management.
@@ -23,6 +24,7 @@ Create interactive dashboards and visual reports using Power BI.
 Conduct EDA to identify weather correlations and location-based insights.
 
 Support data-driven decision-making in climate-sensitive industries.
+
 
 🛠️ **Tools & Technologies**
 
@@ -60,6 +62,7 @@ final_fact	pressure	Atmospheric pressure in hPa
 final_fact	wind_speed	Wind speed in m/s
 city_attributes	latitude, longitude	City coordinates
 
+
 📊 **Power BI Visualizations**
 
 A range of visualizations were created to uncover trends, relationships, and anomalies:
@@ -83,6 +86,7 @@ Busiest weather conditions by hour
 ⚡ Scatter Plots: Wind speed vs air pressure relationships
 
 Each visualization is backed by real insights useful for smart cities, climate resilience, and disaster management​.
+
 ​
 📈 **MECE Breakdown (Problem Segmentation)**
 
@@ -95,6 +99,7 @@ Weather Conditions – Categorization & frequency of weather types
 Correlation Analysis – Relations between weather attributes (e.g., pressure vs humidity)
 
 Location-Based Insights – Regional extremes and city-level comparisons
+
 
 🔍 **Exploratory Data Analysis (EDA)**
 
