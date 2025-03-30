@@ -56,15 +56,19 @@ final_fact: Core table for weather observations
 ![image](https://github.com/user-attachments/assets/8e1fc06c-9a4d-4ece-bb88-5ab1caf71e56)
 
 city_lookup: City metadata
+
 ![image](https://github.com/user-attachments/assets/701dfaed-7011-49ab-845f-355669e52a06)
 
 country: Country reference
+
 ![image](https://github.com/user-attachments/assets/05b451f1-146f-4fe8-a652-e988b97cd1ba)
 
 city_attributes: Latitude & longitude data
+
 ![image](https://github.com/user-attachments/assets/e3c12351-71c6-4434-811a-e379e455fc6f)
 
 date_lookup, time_lookup: Temporal dimensions
+
 ![image](https://github.com/user-attachments/assets/f256b52f-890b-4b66-8d72-76c00f80a77c)
 
 Key Columns
@@ -133,6 +137,8 @@ Location-Based Insights – Regional extremes and city-level comparisons
 
 
 🔍 **Exploratory Data Analysis (EDA)**
+
+
 ![image](https://github.com/user-attachments/assets/c82ebdcc-7617-4e51-a2b4-55b23d7890e4)
 
 
