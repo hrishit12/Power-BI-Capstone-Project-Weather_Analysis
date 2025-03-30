@@ -6,7 +6,7 @@ This is my final capstone project for Power BI
 Link : https://drive.google.com/drive/folders/18r-Pn4C_DhWSydFqz_iyoVALTq6qrVyX?usp=drive_link
 
 
-🌦️ Weather Analysis Project
+🌦️ **Weather Analysis Project**
 
 
 
@@ -53,14 +53,19 @@ The dataset includes weather metrics linked to time and geographic dimensions.
 
 Database Tables
 final_fact: Core table for weather observations
+![image](https://github.com/user-attachments/assets/8e1fc06c-9a4d-4ece-bb88-5ab1caf71e56)
 
 city_lookup: City metadata
+![image](https://github.com/user-attachments/assets/701dfaed-7011-49ab-845f-355669e52a06)
 
 country: Country reference
+![image](https://github.com/user-attachments/assets/05b451f1-146f-4fe8-a652-e988b97cd1ba)
 
 city_attributes: Latitude & longitude data
+![image](https://github.com/user-attachments/assets/e3c12351-71c6-4434-811a-e379e455fc6f)
 
 date_lookup, time_lookup: Temporal dimensions
+![image](https://github.com/user-attachments/assets/f256b52f-890b-4b66-8d72-76c00f80a77c)
 
 Key Columns
 Table	Column	Description
@@ -78,21 +83,35 @@ A range of visualizations were created to uncover trends, relationships, and ano
 
 🌍 Geographical Maps: City distributions based on latitude & longitude
 
+![image](https://github.com/user-attachments/assets/9ef3f3ba-71cb-4f79-bfc0-2d2812d4c641)
+
+
 📊 Bar Charts: Top countries by city count, temperature extremes
 
+![image](https://github.com/user-attachments/assets/444c7b4e-0f5b-49ea-b275-8fb5104c0868)
+
+
 📈 Line Charts: Temperature trends over time (global and city-specific)
+![image](https://github.com/user-attachments/assets/ae05a67f-6745-46b4-a348-620d9af47b44)
+
 
 🌡️ Heatmaps:
 
 Humidity distribution
+![image](https://github.com/user-attachments/assets/47b94d16-5230-4ec5-b152-aef4918f3598)
 
 Wind speed by month
+![image](https://github.com/user-attachments/assets/034408b9-7924-4478-83c7-0036d281f1e3)
 
 Busiest weather conditions by hour
+![image](https://github.com/user-attachments/assets/dbfb5e30-bd4a-4ed9-979e-bce8b75f2e3e)
 
 🌀 Radial & Wind Rose Charts: Diurnal wind speed and directional patterns
+![image](https://github.com/user-attachments/assets/a5d7db61-67b0-4f9a-bdb2-34271f4d7256)
+![image](https://github.com/user-attachments/assets/2f72dae1-86c4-4c6f-9586-b23ea3a00751)
 
 ⚡ Scatter Plots: Wind speed vs air pressure relationships
+![image](https://github.com/user-attachments/assets/edc7f017-e15b-4a24-83be-095a2a024b05)
 
 Each visualization is backed by real insights useful for smart cities, climate resilience, and disaster management​.
 
@@ -110,8 +129,11 @@ Correlation Analysis – Relations between weather attributes (e.g., pressure vs
 
 Location-Based Insights – Regional extremes and city-level comparisons
 
+![image](https://github.com/user-attachments/assets/6dd26ff2-443e-4bad-9346-74bea7246dd0)
+
 
 🔍 **Exploratory Data Analysis (EDA)**
+![image](https://github.com/user-attachments/assets/c82ebdcc-7617-4e51-a2b4-55b23d7890e4)
 
 
 Key questions answered during EDA include:
