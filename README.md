@@ -146,12 +146,26 @@ Key questions answered during EDA include:
 
 Are cities with similar latitudes experiencing similar climates?
 
+![image](https://github.com/user-attachments/assets/5de1eadb-51f4-477a-9a61-e47443011f78)
+
+
 Which cities see the most rain, and in which season?
+
+![image](https://github.com/user-attachments/assets/1277ab5a-caef-4a16-9c61-d3aba9b95ad1)
 
 How does humidity correlate with air pressure?
 
+![image](https://github.com/user-attachments/assets/c9ee6af6-1982-42be-a420-b33c362b9f85)
+
+
 Which months show the most temperature fluctuation?
 
+![image](https://github.com/user-attachments/assets/722631f6-26e1-4abb-aa93-e458f14d8b69)
+
+
 Are energy demands affected by extreme temperatures?
+
+![image](https://github.com/user-attachments/assets/1515747c-af99-4db4-b5de-d31a51ca0878)
+
 
 Findings are backed by SQL queries and visual summaries in Excel and Power BI
