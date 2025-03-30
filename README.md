@@ -41,8 +41,6 @@ Excel – For EDA and dashboard prototyping
 
 MySQL Workbench – For relational data modeling and queries
 
-Python (optional) – For preprocessing or extended analytics
-
 GitHub – Version control and project sharing
 
 
